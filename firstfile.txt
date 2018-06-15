@@ -7,3 +7,4 @@ ma-ji add a new line on line#7
 binbin change
 change it on the github website directly
 create a new branch online
+测试watching动态
