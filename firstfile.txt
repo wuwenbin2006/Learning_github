@@ -12,3 +12,4 @@ forked project changed online github //由于pull request出现了冲突,将yuet
 yueting和wenbin修改一下这个文件,pull request一下看看效
 yueting在本地电脑上修改一下,然后push到gihub仓库中
 yueting在本地电脑上在增加一行
+yueting在github上增加一行,再次测试pull request的效果
