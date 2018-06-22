@@ -6,3 +6,10 @@
 ma-ji add a new line on line#7
 binbin change
 just cloned and add this line
+change it on the github website directly PR_test
+PR_test create a new branch online
+测试watching动态
+forked project changed online github //由于pull request出现了冲突,将yueting的修改放倒最后一行
+yueting和wenbin修改一下这个文件,pull request一下看看效
+yueting提交了一个pull request,但是wenbin在处理这个PR之前,仍然修改文件.
+继续不顾yueting的PR的存在, 再次修改代码.
