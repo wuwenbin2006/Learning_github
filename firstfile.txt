@@ -5,6 +5,7 @@
 4.remote
 ma-ji add a new line on line#7
 binbin change
+just cloned and add this line
 change it on the github website directly PR_test
 PR_test create a new branch online
 测试watching动态
@@ -13,3 +14,5 @@ yueting和wenbin修改一下这个文件,pull request一下看看效
 yueting在本地电脑上修改一下,然后push到gihub仓库中
 yueting在本地电脑上在增加一行
 yueting在github上增加一行,再次测试pull request的效果
+yueting提交了一个pull request,但是wenbin在处理这个PR之前,仍然修改文件.
+继续不顾yueting的PR的存在, 再次修改代码.
